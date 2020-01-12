@@ -20,6 +20,10 @@ ClashX客户端官方GitHub下载地址：[https://github.com/yichengchen/clashX
 
 ![&#x590D;&#x5236;&#x53D6;&#x5F97;Clash&#x7684;&#x8BA2;&#x9605;&#x5730;&#x5740;](../.gitbook/assets/dc798f79-0f6d-4d48-bb0c-2d448958d9d2.png)
 
+{% hint style="danger" %}
+订阅地址包含了你个人的认证代码，请勿共享给任何人。
+{% endhint %}
+
 2. 客户端设定Clash的订阅
 
 ![](../.gitbook/assets/4e24d63d-6828-499e-8807-f2e05b99d235.png)
