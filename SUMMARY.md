@@ -4,4 +4,5 @@
 * [Android-SS安卓版](androidss-an-zhuo-ban.md)
 * [iOS-shadowrocket](ios-shadowrocket.md)
 * [MacOS-ClashX](macos-clashx.md)
+* [\(Android\)SS安卓版](androidss-an-zhuo-ban-1.md)
 
