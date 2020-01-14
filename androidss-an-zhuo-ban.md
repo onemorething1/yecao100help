@@ -1,8 +1,8 @@
 ---
-description: 原版ss安卓版本教程
+description: Android推荐客户端原版ss安卓设置教程
 ---
 
-# \(Android\)SS安卓版
+# Android-SS安卓版
 
 ## 下载客户端并安装
 

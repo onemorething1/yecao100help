@@ -1,8 +1,8 @@
 ---
-description: ClashX是MacOS上的Clash客户端
+description: MacOS推荐客户端ClashX设置教程
 ---
 
-# （MacOS\)-ClashX
+# MacOS-ClashX
 
 ## 客户端下载并安装
 
@@ -10,7 +10,7 @@ ClashX客户端官方GitHub下载地址：[https://github.com/yichengchen/clashX
 
 请下载客户端并安装。
 
-## 客户端配置
+## 从网站获取订阅地址
 
 1. 登陆网站后获取Clash配置文件的订阅托管地址
 
@@ -24,7 +24,7 @@ ClashX客户端官方GitHub下载地址：[https://github.com/yichengchen/clashX
 订阅地址包含了你个人的认证代码，请勿共享给任何人。
 {% endhint %}
 
-2. 客户端设定Clash的订阅
+## 客户端配置
 
 ![](.gitbook/assets/4e24d63d-6828-499e-8807-f2e05b99d235.png)
 
