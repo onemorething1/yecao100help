@@ -2,10 +2,10 @@
 
 * [帮助中心](README.md)
 
-## 推荐客户端 <a id="ge-ge-ping-tai-tui-jian-ke-hu-duan-xia-zai"></a>
+## 推荐客户端 <a id="client"></a>
 
-* [Windows](ge-ge-ping-tai-tui-jian-ke-hu-duan-xia-zai/windows.md)
-* [Android](ge-ge-ping-tai-tui-jian-ke-hu-duan-xia-zai/androidss-an-zhuo-ban.md)
-* [iOS](ge-ge-ping-tai-tui-jian-ke-hu-duan-xia-zai/ios-shadowrocket.md)
-* [MacOS](ge-ge-ping-tai-tui-jian-ke-hu-duan-xia-zai/macos-clashx.md)
+* [Windows](client/windows.md)
+* [Android](client/androidss-an-zhuo-ban.md)
+* [iOS](client/ios-shadowrocket.md)
+* [MacOS](client/macos-clashx.md)
 
