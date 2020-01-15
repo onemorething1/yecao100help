@@ -9,9 +9,3 @@
 * [iOS](ge-ge-ping-tai-tui-jian-ke-hu-duan-xia-zai/ios-shadowrocket.md)
 * [MacOS](ge-ge-ping-tai-tui-jian-ke-hu-duan-xia-zai/macos-clashx.md)
 
-## 其他客户端 <a id="qi-ta-ke-hu-duan-jiao-cheng"></a>
-
-## 其他
-
-* [FAQ](qi-ta/faq.md)
-
