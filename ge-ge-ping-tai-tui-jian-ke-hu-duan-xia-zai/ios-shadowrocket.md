@@ -30,23 +30,39 @@ description: iOS推荐客户端shadowrocket设置教程
 或者从PC电脑上复制订阅地址后，通过QQ传输给手机QQ
 {% endhint %}
 
-![&#x767B;&#x5F55;&#x7F51;&#x7AD9;&#x540E;&#xFF0C;&#x9009;&#x62E9;&#x4F60;&#x6240;&#x8D2D;&#x4E70;&#x7684;&#x5957;&#x9910;](../.gitbook/assets/tim-tu-pian-20200114235150.png)
+1. 登录网站后，选择你所购买的套餐
 
-![&#x9009;&#x62E9;&#x201D;SSR&#x201C;](../.gitbook/assets/tim-tu-pian-20200115082733.png)
+![](../.gitbook/assets/tim-tu-pian-20200114235150.png)
 
-![&#x590D;&#x5236;&#x8BA2;&#x9605;&#x5730;&#x5740;](../.gitbook/assets/tim-tu-pian-20200114235311.png)
+2. 找到订阅并选择”SSR“
+
+![](../.gitbook/assets/tim-tu-pian-20200115082733.png)
+
+3. 复制订阅地址
+
+![](../.gitbook/assets/tim-tu-pian-20200114235311.png)
 
 ## 配置客户端
 
-![&#x70B9;&#x51FB;&#x53F3;&#x4E0A;&#x89D2;&#x7684;&#x201D;&#x6DFB;&#x52A0;&#x201C;&#x6309;&#x94AE;](../.gitbook/assets/tim-tu-pian-20200115083058.png)
+1. 点击右上角的”添加“按钮
 
-![&#x9009;&#x62E9;&#x4FEE;&#x6539;&#x201D;&#x7C7B;&#x578B;&#x201C;](../.gitbook/assets/tim-tu-pian-20200115083207.png)
+![](../.gitbook/assets/tim-tu-pian-20200115083058.png)
 
-![&#x7C7B;&#x578B;&#x9009;&#x62E9;&#x201D;Subscribe&#x201C;&#xFF0C;&#x4E5F;&#x5C31;&#x662F;&#x8BA2;&#x9605;](../.gitbook/assets/tim-tu-pian-20200115083259.png)
+2. 选择修改”类型“
 
-![&#x628A;&#x521A;&#x624D;&#x7F51;&#x7AD9;&#x90A3;&#x590D;&#x5236;&#x7684;&#x8BA2;&#x9605;&#x5730;&#x5740;&#x7C98;&#x8D34;&#x8FDB;&#x8FD9;&#x91CC;&#xFF0C;&#x5E76;&#x70B9;&#x51FB;&#x53F3;&#x4E0A;&#x89D2;&#x7684;&#x5B8C;&#x6210;&#x3002;](../.gitbook/assets/tim-tu-pian-20200115083410.png)
+![](../.gitbook/assets/tim-tu-pian-20200115083207.png)
 
-![&#x9009;&#x62E9;&#x4E00;&#x4E2A;&#x7EBF;&#x8DEF;&#x8282;&#x70B9;&#x540E;&#xFF0C;&#x6253;&#x5F00;&#x8FDE;&#x63A5;&#x6309;&#x94AE;](../.gitbook/assets/tim-tu-pian-20200115083649.png)
+3. 类型选择”Subscribe“，也就是订阅
+
+![](../.gitbook/assets/tim-tu-pian-20200115083259.png)
+
+4. 把刚才网站那复制的订阅地址粘贴进这里，并点击右上角的完成。
+
+![](../.gitbook/assets/tim-tu-pian-20200115083410.png)
+
+5. 选择一个线路节点后，打开连接按钮
+
+![](../.gitbook/assets/tim-tu-pian-20200115083649.png)
 
 
 
