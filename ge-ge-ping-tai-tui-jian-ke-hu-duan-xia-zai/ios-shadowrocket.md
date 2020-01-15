@@ -4,6 +4,8 @@ description: iOS推荐客户端shadowrocket设置教程
 
 # iOS
 
+## 下载客户端并安装
+
 {% hint style="danger" %}
 需要注意的是，shadowrocket目前只能从其他区域的AppStore下载，而且是付费软件。
 
