@@ -2,7 +2,7 @@
 description: MacOS推荐客户端ClashX设置教程
 ---
 
-# MacOS-ClashX
+# MacOS
 
 ## 客户端下载并安装
 
